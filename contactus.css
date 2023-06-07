@@ -1,0 +1,62 @@
+.Container {
+  width: 100%;
+}
+.FORM_ALL {
+  width: 500px;
+  margin: auto;
+  margin-top: 8%;
+}
+.CU_CCS {
+  text-align: center;
+  margin-top: 1%;
+  font-weight: bolder;
+  font-size: large;
+  font-family: system-ui;
+}
+.CR_CCS {
+  text-align: center;
+  margin-top: 1%;
+  font-weight: initial;
+  font-family: math;
+}
+.FORM_CCS {
+  border-radius: 20%;
+  border-color: black;
+}
+#ALL_FORM_CSS {
+  border: 2px solid aqua;
+  padding: 20px;
+}
+.CHOOSEFILE_STYLE {
+  text-align: center;
+  margin-left: 30%;
+  font-size: unset;
+}
+
+.CU_CSS2 {
+  margin-bottom: 2%;
+}
+.input {
+  width: 100%;
+}
+.AO_CCS {
+  font-weight: 600;
+  font-size: unset;
+}
+.labbs {
+  font-weight: 600;
+}
+.CCD {
+  border: 1px solid black;
+}
+@media (max-width: 500px) {
+  .FORM_ALL {
+    width: fit-content;
+    min-width: unset;
+  }
+}
+/* @media (max-width: 1440px) and (min-width: 501px) {
+  .FORM_ALL {
+    width: 60%;
+  }
+} */
